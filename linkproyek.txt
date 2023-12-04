@@ -1,0 +1,17 @@
+nh%s#zFj&CU8&83 pw login infinityfree
+
+
+http://jwdproyek6.rf.gd/index.php
+
+
+<?php 
+
+//konfigurasi database
+$host     = "sql304.infinityfree.com";
+$user     = "if0_34630649";
+$password = "KO9QlnNrvxvgZ";
+$database = "if0_34630649_db_mhs ";
+//perintah php untuk akses ke database
+$koneksi = mysqli_connect($host,$user,$password,$database);
+
+?>
